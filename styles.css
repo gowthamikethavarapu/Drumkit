@@ -1,6 +1,11 @@
 body {
   text-align: center;
-  background-color: #283149;
+
+   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVI4d-DHeMdtbu89ZQtBLNxEgKA2gBWAnWMg&usqp=CAU"); 
+
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
 }
 
 h1 {
